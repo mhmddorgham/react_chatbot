@@ -1,6 +1,6 @@
 import React from 'react';
 import ChatBot from 'react-best-chatbot';
-// Chatbot for Family Banking System project
+// Chatbot for Family Banking System project project
 const Theme = {
   primaryColor: "#1D1D41",
   secondaryColor: "#D53634",
